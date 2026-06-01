@@ -67,7 +67,7 @@ GhostDDoS is a high-performance multi-vector network stress testing tool built w
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation And Run
 
 ```bash
 # Clone the repository
@@ -75,6 +75,8 @@ git clone https://github.com/thisnull7/ghostddos.git
 
 # Navigate to directory
 cd ghostddos
+Run
+node ghost.js 
 
 # No additional dependencies required
 # GhostDDoS uses only Node.js built-in modules
