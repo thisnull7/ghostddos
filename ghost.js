@@ -32,7 +32,7 @@ const C = {
     X: '\x1b[0m',
 };
 
-// Fixed width: 62 chars for box content area
+
 const BW = 62;
 
 function boxLine(text, color = C.W) {
